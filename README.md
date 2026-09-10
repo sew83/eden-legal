@@ -23,8 +23,8 @@ Before publishing, review the text for the countries where Eden will be distribu
 
 Recommended URLs:
 
-- `https://TODO.github.io/eden-legal/privacy-policy.html`
-- `https://TODO.github.io/eden-legal/terms-of-use.html`
+- `https://sew83.github.io/eden-legal/privacy-policy.html`
+- `https://sew83.github.io/eden-legal/terms-of-use.html`
 
 If GitHub Pages does not render Markdown with the desired URL, add equivalent `.html` pages or use a simple Jekyll theme. The URL must be public, stable and accessible without logging in.
 
